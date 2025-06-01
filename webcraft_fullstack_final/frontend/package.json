@@ -1,0 +1,1 @@
+{ "name": "webcraft-frontend", "dependencies": { "react": "*", "axios": "*", "socket.io-client": "*" } }
